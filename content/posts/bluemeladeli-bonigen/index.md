@@ -1,7 +1,7 @@
 +++
 title = "Bluemelädeli Bönigen"
 date = "2022-08-23"
-draft = true
+draft = false
 pinned = false
 description = "Auftrag war: Kreieren Sie eine Webseite zu einem Blumenladen. Machen Sie Fotos, welche auf der Seite ersichtlich sind."
 +++
