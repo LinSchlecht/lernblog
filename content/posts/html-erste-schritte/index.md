@@ -23,13 +23,9 @@ Dies ist der erste Teil. Zuerst muss man Visual Studio Code installieren. Anschl
 
 I﻿ch hatte ein wenig Schwierigkeiten mit dem html. Für mich ist es zu komplex und kompliziert.  Trotzdem versuche ich mein Bestes zu geben.
 
-
-
 B﻿evor man mit dem ganzen html und css beginnen kann, braucht man eine bestimmte Basis. 
 
 W﻿ie soll die Webseite aussehen? Was soll inhaltlich auf der Webseite erscheinen?
-
-
 
 I﻿n unserer Webseite geht es um eine Immobilie in Morgins. Wir können für ein Unternehmen eine Webseite gestalten. 
 
@@ -37,7 +33,7 @@ I﻿n unserer Webseite geht es um eine Immobilie in Morgins. Wir können für ei
 
 F﻿olgende Schritte haben wir gemacht:
 
-\    1﻿. Recherche zum Thema/Inhalt der Webseite. 
+   1﻿. Recherche zum Thema/Inhalt der Webseite. 
 
 * Ü﻿ber den Ort Morgins
 * D﻿er Tourismus in Morgins
